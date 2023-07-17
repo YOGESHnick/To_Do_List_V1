@@ -23,4 +23,11 @@ This is a simple todo list, focussed on enhancing your productivity
 4. run npm i to install all the required packages to boot!
 5. **But**, its possible that the package version might get updated,hence it is suggested to install the dependencies (https://github.com/YOGESHnick/To_Do_List_V1/blob/main/package.json) one-by-one, manually
 6. after successful installation,run node app.js to start the to-do list site in your localhost
-   
+
+# Usage:
+1. type your goal in the input box and tap '+' button
+2. to mark goal as 'completed' , click the check box to the left of your goal
+
+# Next Version update:
+I am woking on the updates to provide efficient delete operation and perform these operations over MongoDB
+The expected release date is: 18th August,2023
